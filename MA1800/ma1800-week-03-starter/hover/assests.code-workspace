@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../assests"
+		},
+		{
+			"path": "../background-image"
+		},
+		{
+			"path": "../classes-ids"
+		},
+		{
+			"path": "../div"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../linking-css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hover"
+	}
+}

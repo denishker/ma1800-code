@@ -1,0 +1,23 @@
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem; 
+}
+
+
+#content {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.hide {
+    color: #fff;
+    border-bottom: 1px dotted blue;
+
+}
+
+.hide:hover {
+
+    columns: #f00;
+    cursor: pointer;
+}
